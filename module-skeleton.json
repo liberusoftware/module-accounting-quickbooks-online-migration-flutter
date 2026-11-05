@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-quickbooks-online-migration-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-quickbooks-online-migration",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_quickbooks_online_migration_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/quickbooks-online-migration.md",
+  "presentationPlan": "projects/accounting/flutter/quickbooks-online-migration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
